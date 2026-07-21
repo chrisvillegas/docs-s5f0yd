@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-f90pgk.juragan89c.site/sitemap.xml
